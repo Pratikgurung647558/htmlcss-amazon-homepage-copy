@@ -175,3 +175,36 @@ margin-left: 3px;
     color: blue;
 }
 
+/**footer**/
+footer{
+   margin-top: 15px;
+}
+.foot-panel1{
+    height: 50px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85 rem;
+}
+.foot-panel2{
+    height: 50p0x;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: Left;
+    justify-content: center;
+   
+}
+.ul {
+    margin-top: 15px;
+    display: flex;
+}
+
+
+.ul a {
+    display: block;
+    font-size: 0.75 rem;
+  
+}
